@@ -1,0 +1,6 @@
+"./gpio-interrupt-led-toggle.o"
+"./ti_msp_dl_config.o"
+"./startup_mspm0l222x_ticlang.o"
+-l"./device_linker.cmd"
+-ldevice.cmd.genlibs
+-llibc.a
