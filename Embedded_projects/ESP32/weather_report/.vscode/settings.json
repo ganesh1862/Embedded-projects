@@ -1,0 +1,18 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:/Espressif/frameworks/esp-idf-v5.3.1/",
+  "idf.toolsPathWin": "C:\\Espressif",
+  "idf.pythonInstallPath": "C:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.portWin": "COM3",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "charconv": "c",
+    "memory": "c",
+    "random": "c",
+    "xstring": "c",
+    "array": "c",
+    "vector": "c",
+    "xutility": "c",
+    "netdb.h": "c"
+  }
+}
